@@ -8,3 +8,5 @@ Nombres:
 
 Mapa Mental: 
 ![Hola](https://github.com/NeilPolitum/Programaci-n-Estructural/blob/master/ProgEstr.png)
+
+Los tres ejemplos son los respectivos con su propio nombre
